@@ -7,6 +7,7 @@
 
   * RKE or K3s installed
   * DNS working for Rancher server
+  * Helm v3.3 or later
   * Additional requirements below if using  letsencrypt
 
 #### Before you begin you MUST be able to ping your sever via a dns name..
